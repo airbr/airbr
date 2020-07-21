@@ -1,10 +1,10 @@
 ### Hi there 👋 Morgan here. 
 
-🔭 I’m currently working on EasyRx. It is great to have a job that challenges me every day. There is such an incredible amount to learn and it is necessary to constantly learn in this field.
+🔭 I’m currently working on EasyRx. It is great to have a job that challenges me every day. 
 
 In my spare time I try to help out at Open Law NZ, a open source non profit. 
 
-The best way to find out all about my is [my minimalist personal website](https://morganwebdev.com) 
+The best way to find out all about me is at [my minimalist personal website](https://morganwebdev.com) 
 
 
 <!--
