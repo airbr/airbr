@@ -1,10 +1,10 @@
 ### Hi there 👋 Morgan here. 
 
- 🔭 I’m currently working at [EasyRx](easyrxcloud.com) 🔭 . It is great to have a job that challenges me every day. 
+ 🔭 I’m currently working at [EasyRx](https://easyrxcloud.com) 🔭 . It is great to have a job that challenges me every day. 
 
 The best way to find out all about me is at [my minimalist personal website](https://morganwebdev.com) 
 
-⚡ Fun fact: I am a member of [Bellingham Codes](bellingham.codes) and it is my FAVORITE programming community by far!
+⚡ Fun fact: I am a member of [Bellingham Codes](https://bellingham.codes) and it is my FAVORITE programming community by far!
 
 <!--
 **airbr/airbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
