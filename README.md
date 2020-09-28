@@ -1,6 +1,10 @@
-### Hi there 👋 Morgan here. 
+### Hi there 👋 My name is Morgan.
 
- 🔭 I’m currently working at [EasyRx](https://easyrxcloud.com) 🔭 . It is great to have a job that challenges me every day. 
+I am currently working full-time remote as a web developer at [EasyRx](https://easyrxcloud.com). I have worked their since 2017. It is great to have a job that challenges me every day. EasyRx runs on the LAMP Stack mainly and I work across the full stack.
+ 
+I am a problem solver. If something can be solved by deleting a few lines of code that is sometimes the best.
+
+I use tools you may have heard of like Google and Stack Overflow for most things. What is important to me is that I have critical thinking skills to know what is a good solution or resource for the job at hand.
 
 The best way to find out all about me is at [my minimalist personal website](https://morganwebdev.com) 
 
@@ -11,13 +15,4 @@ The best way to find out all about me is at [my minimalist personal website](htt
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Easyrx.
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
