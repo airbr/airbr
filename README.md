@@ -10,4 +10,4 @@ The best way to find out all about me is at [my minimalist personal website](htt
 
 ⚡ Fun fact: I am a member of [Bellingham Codes](https://bellingham.codes) and it is my FAVORITE programming community by far!
 
-> My favorite repository right now is airbr/onefile. Its just where I feel I am expressing my personality heh.
+> My favorite repository right now is [airbr/onefile](https://github.com/airbr/onefile). Its just where I feel I am expressing my personality heh.
