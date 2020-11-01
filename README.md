@@ -10,9 +10,4 @@ The best way to find out all about me is at [my minimalist personal website](htt
 
 ⚡ Fun fact: I am a member of [Bellingham Codes](https://bellingham.codes) and it is my FAVORITE programming community by far!
 
-<!--
-**airbr/airbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
+> My favorite repository right now is airbr/onefile. Its just where I feel I am expressing my personality heh.
