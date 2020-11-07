@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Morgan.
 
-I am currently working full-time remote as a web developer at [EasyRx](https://easyrxcloud.com). It is great to have a job that challenges me every day. EasyRx runs on the LAMP Stack mainly and I work across the full stack. I have worked there since 2017 and witnessed the evolution of features and changes Ive made in production. 
+I work full time as a remote web developer for [EasyRx](https://easyrxcloud.com). It is great to have a job that challenges me every day. EasyRx runs on the LAMP Stack mainly and I work across the full stack. I have worked there since 2017 and witnessed the evolution of features I have made in production. 
  
 I am a problem solver. If something can be solved by deleting a few lines of code that is sometimes the best.
 
