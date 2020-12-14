@@ -8,4 +8,6 @@ I use tools you may have heard of like Google and Stack Overflow for most things
 
 The best way to find out all about me is at [my minimalist personal website](https://morganwebdev.com) 
 
+⚡ I recently launched a [developer blog](https://morganwebdev.org)!
+
 ⚡ Fun fact: I am a participant/member of [Bellingham Codes](https://bellingham.codes) and it is my FAVORITE programming community by far!
