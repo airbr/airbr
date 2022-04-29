@@ -6,4 +6,4 @@ The best way to find out all about me is at [my minimalist personal website](htt
 
 ⚡ Fun fact: I am a participant/member of [Bellingham Codes](https://bellingham.codes) and it is my favorite programming community by far!
 
-I am a MDN Plus/ Web Docs subscriber! ![mdn](https://avatars.githubusercontent.com/u/7565578?s=200&v=4)
+I am a very happy MDN Plus/ Web Docs subscriber 
