@@ -5,5 +5,3 @@ I work at [WompMobile](https://wompmobile.com) as a Production Developer. Before
 The best way to find out all about me is at [my minimalist personal website](https://morganwebdev.com) and my [About section on my developer blog](https://www.morganwebdev.org/about/) 
 
 ⚡ Fun fact: I am a participant/member of [Bellingham Codes](https://bellingham.codes) and it is my favorite programming community by far! Also, I am a very happy MDN Plus Web Docs subscriber I love supporting Mozilla
-
-[![](https://www.morganwebdev.com/static/img/medbutton1.gif)](https://medicare4all.org/)
