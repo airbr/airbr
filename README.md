@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Morgan.
+### Hi there 👋 My name is Morgan*.
 
 I am open to opportunities. 
 
@@ -9,3 +9,6 @@ I have a law degree from Otago University, Dunedin, New Zealand and did a Web De
 The best way to find out all about me is at [my minimalist personal website](https://morganwebdev.com) and my [About section on my developer blog](https://www.morganwebdev.org/about/) 
 
 I also have a [Glitch](https://glitch.com/@airbr) and a [Replit](https://replit.com/@airbr)
+
+
+*My full name is Beau Morgan Murrah. I prefer Morgan generally.
