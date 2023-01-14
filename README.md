@@ -6,7 +6,7 @@ I worked recently at [WompMobile](https://wompmobile.com) as a Production Develo
 
 I have a law degree from Otago University, Dunedin, New Zealand and did a Web Development Immersive bootcamp with General Assembly in 2016.
  
-The best way to find out all about me is at [my minimalist personal website](https://morganwebdev.com) and my [About section on my developer blog](https://www.morganwebdev.org/about/) 
+The best way to find out all about me are links at [my website](https://morganwebdev.com) and my [developer blog](https://www.morganwebdev.org/) 
 
 I also have a [Glitch](https://glitch.com/@airbr) and a [Replit](https://replit.com/@airbr)
 
