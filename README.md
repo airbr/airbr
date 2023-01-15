@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Morgan*.
+### Hi there 👋 My name is Morgan.
 
 I worked recently at [WompMobile](https://wompmobile.com) as a Production Developer and before that I worked as a remote developer for [EasyRx](https://easyrxcloud.com) with a focus on the web. I have about 5.5+ years experience doing software and web development. 
 
