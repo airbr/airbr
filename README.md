@@ -2,5 +2,4 @@
 
  The best way to find out all about me are links at [my website](https://morganwebdev.com) and my [developer blog](https://www.morganwebdev.org/). 
 
-[If you want to support my work, my Ko-Fi is here](https://airbr.github.io/kofi/) 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H3GJLCN)
