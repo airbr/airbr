@@ -1,4 +1,6 @@
-### Hi there 👋 My name is Morgan. This is stuff Ive made in my spare time. 
+### Hi there 👋 My name is Morgan.
+
+#### This is stuff I have made in my spare time. 
 
 The best way to find out all about me are links at [my website](https://morganwebdev.com) and my [developer blog](https://www.morganwebdev.org/). 
 
