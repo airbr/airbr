@@ -4,4 +4,4 @@
 
 I have [a website](https://morganwebdev.com) and a [developer blog](https://www.morganwebdev.org/). 
 
-I have made small contributions to [MDN Web Docs](https://github.com/mdn/content/pull/24346#issuecomment-1493051463) and [WebPageTest documentation](https://github.com/WPO-Foundation/webpagetest-docs/pull/81) as some examples of open source contributions. This profile is mostly personal projects to learn new things. 
+I have made small contributions to the [Web Design Sustainability Community Group of the W3C](https://github.com/w3c/sustyweb/releases/tag/v1.0-D2), [MDN Web Docs](https://github.com/mdn/content/pull/24346#issuecomment-1493051463) and [WebPageTest documentation](https://github.com/WPO-Foundation/webpagetest-docs/pull/81) as some examples of open source contributions. This profile is mostly personal projects to learn new things. 
