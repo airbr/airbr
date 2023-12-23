@@ -2,7 +2,7 @@
 
 ###### fun fact:  My first name is Beau, but I go by my middle name/preferred name Morgan 
 
-Pretty busy these days. I still find a little spare time for side projects, but very limited.
+Pretty busy these days. I still find a little spare time for hobby side projects only, but very limited time at that. 
 
 I have [a website](https://morganwebdev.com) and a [developer blog](https://www.morganwebdev.org/). 
 
