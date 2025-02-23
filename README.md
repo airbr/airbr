@@ -11,4 +11,4 @@ I have a small [website](https://morganwebdev.org). It has an RSS Feed and links
   * 100 x 4 Lighthouse Scores Desktop and Mobile via PageSpeed Insights
   * 100 Desktop and Mobile Yellow Lab Tools Scores
   * [Excellent WebPageTest results Feb 23](https://www.webpagetest.org/result/250223_BiDcRJ_6NS/)
-   
+5. [Document checking with W3C validator completed. No errors or warnings to show. Feb 23 2025](https://validator.w3.org/nu/?showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fwsg-o-matic.netlify.app%2F)   
