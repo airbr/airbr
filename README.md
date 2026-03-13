@@ -1,6 +1,6 @@
 ### I have a [website](https://morganwebdev.org). It has an RSS Feed and links to this GitHub profile.
 
-I have approximately 9+ years of experience working on the web as a developer. I have made some contributions at the W3C, particularly in the Sustainable Web Interest Group. I have also made very small contributions to other projects that I think are valuable. I like to work in environments where there is a belief in something greater than oneself. 
+I have approximately 9+ years of experience working on the web as a developer. I have made some contributions at the W3C, particularly in the Sustainable Web Interest Group. I have also made very small contributions to other projects that I think are valuable. I like to work in environments where there is a strong teamwork ethic- Ive mostly worked on small teams or sub units of organizations in my digital career.  
 
 I have focused on a couple of areas of study:
 * Sustainability
