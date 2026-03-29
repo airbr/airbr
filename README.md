@@ -6,5 +6,5 @@ I have focused on a couple of areas of study:
 * Sustainability
 * Web Performance
 * Accessibility
-
-[I volunteer my time at several organizations, which from March 2026 I list](https://www.morganwebdev.org/posts/things-i-like-march-2026/). I like music! physical and digital media, including Vinyl, CD's, MP3's, FLAC and more.
+  
+I like music! physical and digital media, including Vinyl, CD's, MP3's, FLAC and more.
