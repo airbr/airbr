@@ -7,3 +7,4 @@ I am the admin of https://whatcompublichospital.org
 Other current domains:
 * https://wsg-o-matic.com
 * https://guideline-journey.com
+* https://tangatatiriti.org 
