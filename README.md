@@ -4,6 +4,8 @@ I am a big fan of web standards, and generally HTML. Semantic features can reall
 
 I am the admin of https://whatcompublichospital.org 
 
+I am the accessibility lead for https://whatcomhealthcarealliance.org/ 
+
 Other current domains:
 * https://wsg-o-matic.com
 * https://guideline-journey.com
