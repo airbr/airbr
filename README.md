@@ -10,3 +10,5 @@ Other current domains:
 * https://wsg-o-matic.com
 * https://guideline-journey.com
 * https://tangatatiriti.org 
+
+I love a tip or donation now and then! https://ko-fi.com/morganwebdev
