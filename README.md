@@ -6,3 +6,5 @@
 I am a big fan of web standards, and generally HTML. Semantic features can really help. I also advocate for controls on `<img>` elements being implemented in browsers
 
 I love a tip or donation now and then! https://ko-fi.com/morganwebdev
+
+I sponsor [Crankboy](https://github.com/CrankBoyHQ) sometimes, its given an incredible amount of extra fun to my Playdate console.
